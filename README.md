@@ -14,7 +14,7 @@ _____
 
 
 ### **Demo Screenshots**
-#####Musicon-Store
+##### Musicon-Store
 * The Home page!
 ![Image of Home Page](./public/homePage.png)
 
