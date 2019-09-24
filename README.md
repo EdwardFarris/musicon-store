@@ -1,5 +1,4 @@
 # musicon-store
-A multi-page website for an online music store using HTML, CSS, JavaScript, and Handlebars
 
 ### **Description:**
 This is a virtual marketplace application that allows visitors to browse musical instruments for purchase. It uses JavaScript logic and Handlebars to dynamically update the price and information pertaining to specific items based on whether the listed items are on sale or not. The backend logic to actually make online purchases is not setup, but users can browse for items, then utilize the contact page in order to call or email the store to place an order.
